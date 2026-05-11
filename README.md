@@ -22,7 +22,8 @@ Motivated and a career-focussed Junior Frontend Developer with a background in h
 
 - 👯 I’m looking to collaborate on ...
 * Full Stack web development Projects
-* Frontend Development Projects 
+* Frontend Development Projects
+* Graduate Software development roles
 
 - 📫 How to reach me:
   LinkedIn: www.linkedin.com/in/poorna-ramya-potnuru
@@ -61,5 +62,4 @@ Certifications & Professional Training
 •	Coding Challenge for HTML, CSS and JavaScript
 
 
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... From Pharmacy prescriptions to Java Functions
